@@ -1,0 +1,1 @@
+aws s3 cp --recursive ./www/index.html s3://mostafa-udagram/ --profile default

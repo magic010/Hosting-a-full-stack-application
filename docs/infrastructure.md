@@ -1,5 +1,7 @@
 
-## AWS
+# Udagram infrastructure
+
+![](./architecture.PNG)
 
 #### RDS Postgres
 The application server uses AWS RDS Postgres as database for storing and retrieving information.
